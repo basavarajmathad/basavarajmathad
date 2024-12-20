@@ -28,5 +28,5 @@ I am an analytical professional with expertise in data analytics, eager to solve
 
 ## 📫 How to Reach Me
 - **Email:** [basavarajmathad2018@gmail.com](mailto:basavarajmathad2018@gmail.com)
-- **GitHub:** [https://github.com/BasavarajMatahad](https://github.com/BasavarajMatahad)
+- **GitHub:** [https://github.com/basavarajmathad]
 - **LinkedIn:** [https://linkedin.com/in/basavaraj-mathad](https://linkedin.com/in/basavaraj-mathad)
